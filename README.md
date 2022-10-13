@@ -1,2 +1,4 @@
 - 👋 Hi, I’m Bene
-Java & Python developer SDET 
+- SDET 
+- Java & Python developer
+- Living in hangzhou
